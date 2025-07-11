@@ -1,0 +1,54 @@
+COMPREHENSIVE SALES ANALYSIS REPORT
+============================================================
+Generated on: 2025-07-11 11:44:07
+Analysis Period: 2023-01-01 to 2024-12-31
+
+EXECUTIVE SUMMARY
+------------------------------
+💰 Total Revenue: $1,236,110.73
+🛒 Total Orders: 14,023
+💵 Average Order Value: $88.15
+👥 Unique Customers: 1,000
+📦 Products Sold: 50
+📅 Analysis Period: 730 days
+🏆 Top Product: Product_44 ($1,618.87)
+🌍 Top Region: South America ($211,216.18)
+👑 VIP Customers: 47 customers
+🔄 Loyal Customers: 872 customers
+📈 Revenue Growth: 0.5%
+📊 Peak Sales Month: Nov
+📅 Peak Sales Day: Thursday
+🎯 Customer Retention: 96.8%
+
+TOP 10 PRODUCTS BY REVENUE
+-----------------------------------
+Product_44: $1,618.87 (0.1% market share)
+Product_12: $1,599.99 (0.1% market share)
+Product_18: $1,500.67 (0.1% market share)
+Product_13: $1,454.46 (0.1% market share)
+Product_40: $1,442.92 (0.1% market share)
+Product_24: $1,434.84 (0.1% market share)
+Product_10: $1,425.85 (0.1% market share)
+Product_12: $1,420.65 (0.1% market share)
+Product_28: $1,419.06 (0.1% market share)
+Product_28: $1,403.40 (0.1% market share)
+
+CUSTOMER SEGMENT DISTRIBUTION
+-----------------------------------
+Premium: 648 customers (64.8%)
+High Value: 289 customers (28.9%)
+VIP: 47 customers (4.7%)
+Medium Value: 16 customers (1.6%)
+Low Value: 0 customers (0.0%)
+
+GROWTH METRICS
+--------------------
+Total Revenue Growth: 4.8%
+Average Monthly Growth: 0.5%
+Customer Growth Rate: 0.1%
+
+SEASONAL PATTERNS
+--------------------
+Peak Sales Month: Nov
+Peak Sales Weekday: Thursday
+Seasonality Strength: 0.05

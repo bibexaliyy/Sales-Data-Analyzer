@@ -1,0 +1,22 @@
+2025-07-11 13:09:23,672 - __main__ - INFO - 🎯 Starting SalesVisualizer for GitHub Codespaces...
+2025-07-11 13:09:23,718 - __main__ - INFO - Data loaded successfully from /workspaces/Sales-Data-Analyzer/src/../data/cleaned_sales_data.csv. Shape: (14023, 14)
+2025-07-11 13:09:23,719 - __main__ - INFO - Columns found: ['Date', 'CustomerID', 'ProductID', 'ProductName', 'Category', 'Quantity', 'Price', 'CustomerRegion', 'Revenue', 'Month', 'Year', 'Quarter', 'Weekday', 'Month_Name']
+2025-07-11 13:09:23,731 - __main__ - INFO - Output directory created: outputs/visualizations
+2025-07-11 13:09:23,732 - __main__ - INFO - Available columns: ['Date', 'CustomerID', 'ProductID', 'ProductName', 'Category', 'Quantity', 'Price', 'CustomerRegion', 'Revenue', 'Month', 'Year', 'Quarter', 'Weekday', 'Month_Name']
+2025-07-11 13:09:23,732 - __main__ - INFO - Data validation completed. Shape: (14023, 14)
+2025-07-11 13:09:23,732 - __main__ - INFO - 🎨 Creating comprehensive visualization suite...
+2025-07-11 13:09:23,732 - __main__ - INFO - Creating Revenue Trend Analysis...
+2025-07-11 13:09:23,732 - __main__ - INFO - Creating revenue trend analysis...
+2025-07-11 13:09:23,809 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-07-11 13:09:23,811 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-07-11 13:09:26,232 - __main__ - INFO - ✅ Plot saved: outputs/visualizations/revenue_trend_analysis.png
+2025-07-11 13:09:26,233 - __main__ - INFO - ✅ Revenue trend analysis completed
+2025-07-11 13:09:26,233 - __main__ - INFO - ✅ Revenue Trend Analysis completed successfully
+2025-07-11 13:09:26,233 - __main__ - INFO - Creating Product Performance Analysis...
+2025-07-11 13:09:26,233 - __main__ - INFO - Creating product performance analysis...
+2025-07-11 13:09:27,977 - __main__ - INFO - ✅ Plot saved: outputs/visualizations/product_performance_analysis.png
+2025-07-11 13:09:27,977 - __main__ - INFO - ✅ Product performance analysis completed
+2025-07-11 13:09:27,978 - __main__ - INFO - ✅ Product Performance Analysis completed successfully
+2025-07-11 13:09:27,978 - __main__ - INFO - ✅ 2/2 visualizations created successfully!
+2025-07-11 13:09:27,978 - __main__ - INFO - 📁 Check the 'outputs/visualizations' folder for all charts
+2025-07-11 13:09:27,978 - __main__ - INFO - ✅ All visualizations generated successfully!
