@@ -1,4 +1,3 @@
-# Sales-Data-Analyzer
 # Sales Data Analyzer
 
 ---
